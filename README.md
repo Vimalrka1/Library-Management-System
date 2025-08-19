@@ -9,4 +9,4 @@ The project will include the following tasks.
 1.3: Information Retrieval
 1.4: Reporting and Analytics
 
-#NOTE:For screenshot, Please refer the word file as named "Task_1_Library Management System.docx
+#NOTE:For screenshot, Please refer the word file as named "Task_1_Library Management System.pdf
